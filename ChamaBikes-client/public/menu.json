@@ -1,0 +1,98 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eea1",
+        "name": "Mountain Bike",
+        "details": "A rugged bike for off-road trails.",
+        "image": "/images/recipes/img1.png",
+        "category": "bikes",
+        "price": 1500.00
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea2",
+        "name": "Electric Scooter",
+        "details": "A fast and eco-friendly electric scooter.",
+        "image": "/images/recipes/img2.png",
+        "category": "scooters",
+        "price": 1200.00
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea3",
+        "name": "Hybrid Bike",
+        "details": "Perfect for both city streets and country roads.",
+        "image": "/images/recipes/img3.png",
+        "category": "bikes",
+        "price": 1300.00
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea4",
+        "name": "Road Bike",
+        "details": "A lightweight bike designed for speed on paved roads.",
+        "image": "/images/recipes/img4.png",
+        "category": "bikes",
+        "price": 2000.00
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a5",
+        "name": "Folding Bicycle",
+        "details": "Compact and portable, ideal for urban commuting.",
+        "image": "/images/recipes/img5.png",
+        "category": "bicycles",
+        "price": 1000.00
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea6",
+        "name": "Kick Scooter",
+        "details": "A simple and fun scooter for all ages.",
+        "image": "/images/recipes/img6.png",
+        "category": "scooters",
+        "price": 400.00
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea7",
+        "name": "BMX Bike",
+        "details": "Designed for tricks and stunts.",
+        "image": "/images/recipes/img7.png",
+        "category": "bikes",
+        "price": 800.00
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea8",
+        "name": "Cruiser Bike",
+        "details": "Comfortable and stylish for casual rides.",
+        "image": "/images/recipes/img8.png",
+        "category": "bikes",
+        "price": 900.00
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea9",
+        "name": "Fixed Gear Bike",
+        "details": "A simple, single-speed bike.",
+        "image": "/images/recipes/img9.png",
+        "category": "bikes",
+        "price": 600.00
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb1",
+        "name": "Gravel Bike",
+        "details": "Versatile bike for both paved and unpaved roads.",
+        "image": "/images/recipes/img1.png",
+        "category": "bikes",
+        "price": 1800.00
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb2",
+        "name": "Cargo Bike",
+        "details": "Designed for carrying heavy loads.",
+        "image": "/images/recipes/img1.png",
+        "category": "bikes",
+        "price": 2500.00
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb3",
+        "name": "Touring Bike",
+        "details": "Built for long-distance rides with heavy luggage.",
+        "image": "/images/recipes/img3.png",
+        "category": "bikes",
+        "price": 2200.00
+    },
+]
